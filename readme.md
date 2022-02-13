@@ -3,7 +3,7 @@
 ## Essa api tem como funcionalidade a simulação de um e-commerce, onde você pode: 
 
 * Registrar e pegar clientes.
-* Adicionar e pegar produtos
+* Adicionar e pegar produtos.
 * Registrar e pegar relação de compras de clientes.
 
 ## Tecnologias utilizadas:
