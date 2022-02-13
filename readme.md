@@ -7,13 +7,13 @@
 * Registrar e pegar relação de compras de clientes.
 
 ## Tecnologias utilizadas:
-MySQL
-Express
-Knex
-Node.js
-Typescript
-Dotenv
-Cors
+- MySQL
+- Express
+- Knex
+- Node.js
+- Typescript
+- Dotenv
+- Cors
 
 ## Link da Documentação:
 https://documenter.getpostman.com/view/18386406/UVeMJj8j
